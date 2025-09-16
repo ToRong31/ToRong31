@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoang Trong</h1>
 <h3 align="center">  
 <ul>
- <a>I am an undergraduate at the University of Information of Technology - VNUHCM </a>
- <a> My major is Computer Science </a>
+ <li>I am an undergraduate at the University of Information of Technology - VNUHCM 
+ <li> My major is Computer Science 
 </ul>
 </h3>
 
