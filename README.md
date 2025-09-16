@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/trong-hoang-b28712331/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="tronghph@gmail.com">
+  <a href="mailto:tronghph@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
