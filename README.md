@@ -17,11 +17,13 @@
 ---
 
 ## 🌐 Socials
-<p align="center">
+<p align="top-left">
   <a href="https://www.linkedin.com/in/trong-hoang-b28712331/">
+   <a>Hoang Trong</a>
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
+  </a> <br>
   <a href="mailto:tronghph@gmail.com">
+  <a>tronghph@gmail.com</a>
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
