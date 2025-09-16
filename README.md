@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Hoang Trong</h1>
+<h3 align="center">  
+<ul>
+ <a>I am an undergraduate at the University of Information of Technology - VNUHCM </a>
+ <a> My major is Computer Science </a>
+</ul>
+</h3>
+
 ## 👨‍💻 <span style="font-size:1.4em;">About Me</span>
 - 🔭 <span style="font-size:1.1em;">Currently working on personal projects and exploring new technologies</span>  
 - 🌱 <span style="font-size:1.1em;">Learning <b>React</b>, <b>Next.js</b>, and <b>MLOps</b></span>  
