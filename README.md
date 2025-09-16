@@ -14,15 +14,16 @@
 
 ---
 
-## 🌐 <span style="font-size:1.4em;">Socials</span>
-<p align="top-left" style="font-size:1.1em;">
-  <a href="https://www.linkedin.com/in/trong-hoang-b28712331/">
+## 🌐 Socials
+<p align="left" style="font-size:1.1rem;">
+  <a href="https://www.linkedin.com/in/trong-hoang-b28712331/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" height="28"/>
-    Hoang Trong
-  </a> <br>
-  <a href="mailto:tronghph@gmail.com">
+    <span style="margin-left:8px;">Hoang Trong</span>
+  </a>
+  <br>
+  <a href="mailto:tronghph@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" height="28"/>
-    tronghph@gmail.com
+    <span style="margin-left:8px;">tronghph@gmail.com</span>
   </a>
 </p>
 
