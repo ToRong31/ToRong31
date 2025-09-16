@@ -18,13 +18,10 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/trong-hoang-b28712331/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-link">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="tronghph@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
