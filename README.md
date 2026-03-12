@@ -8,8 +8,7 @@
 
 ## 👨‍💻 <span style="font-size:1.4em;">About Me</span>
 - 🔭 <span style="font-size:1.1em;">Currently working on personal projects and exploring new technologies</span>  
-- 🌱 <span style="font-size:1.1em;">Learning <b>React</b>, <b>Next.js</b>, and <b>MLOps</b></span>  
-- 💬 <span style="font-size:1.1em;">Ask me about <b>Python, C++, Deep Learning, Machine Learning, Natural Language Processing (NLP) , Computer Vision (CV) </b></span>  
+- 💬 <span style="font-size:1.1em;">Ask me about <b>Python, C++, Deep Learning, Machine Learning, Natural Language Processing (NLP) , Computer Vision (CV) , Multi-agent, A2A SDK, Agentic </b></span>  
 - 🎯 <span style="font-size:1.1em;">Goal: Build impactful AI/ML applications and contribute to open source</span>  
 
 ---
